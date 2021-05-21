@@ -6,6 +6,7 @@
   justify-content: center;
   align-items: center;
   height: 100vh;
+  background-color: #eaeaea;
 }
 
 .main {
@@ -76,6 +77,7 @@
   flex-wrap: wrap;
   max-width: 800px;
   margin-top: 3rem;
+
 }
 
 .card {
@@ -93,8 +95,8 @@
 .card:hover,
 .card:focus,
 .card:active {
-  color: #0070f3;
-  border-color: #0070f3;
+  color: #452fa5;
+  border-color: #455c77;
 }
 
 .card h2 {

@@ -13,9 +13,8 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to  post- Deplpy App
-        </h1>
-
+          Welcome to After- Deplpy App
+          </h1>
         <p className={styles.description}>
           Get started by editing{' '}
           <code className={styles.code}>pages/index.js</code>
